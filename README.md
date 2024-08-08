@@ -119,7 +119,7 @@ def add_cafe():
 ## DEMO
 In this project, we are creating a similar service like https://laptopfriendly.co/ where you can add laptop friendly cafe or suggest or find one near you 
 - https://laptopfriendly.co/suggest (POST new cafe)
-- https://laptopfriendly.co/Singapore
+- https://laptopfriendly.co/singapore
 
 ### SQLite DBMS
 This is where all the data are stored.
