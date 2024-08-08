@@ -114,6 +114,7 @@ def add_cafe():
 
 ## DEMO
 ### SQLite DBMS
+This is where all the data are stored.
 ![](https://github.com/AlvinChin1608/day65_100/blob/main/screenshots_demo/SQL_DBMS.png)
 
 ### GET on POSTMAN
@@ -129,5 +130,5 @@ def add_cafe():
 ![](https://github.com/AlvinChin1608/day65_100/blob/main/screenshots_demo/PATCH-Update_Coffee_Price_for_cafe.png)
 
 ### DELETE
-1[](https://github.com/AlvinChin1608/day65_100/blob/main/screenshots_demo/DELETE-a_cafe_by_ID.png)
+![](https://github.com/AlvinChin1608/day65_100/blob/main/screenshots_demo/DELETE-a_cafe_by_ID.png)
 
