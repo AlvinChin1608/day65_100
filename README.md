@@ -1,7 +1,7 @@
 # day65_100
 This can be particularly useful when you have exclusive access to valuable data. By creating our own RESTful API, we can effectively monetize our data by selling it to developers and data analysts.
 
-Client -> API -> Server -> Database
+Client -> API -> Server (computation) -> Database
 
 # RESTful APIs and HTTP Methods
 
