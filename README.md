@@ -43,14 +43,14 @@ Endpoints define the routes available in an API. Each route may correspond to di
 Here is a list of API endpoints available in this project:
 ```python
 # API Endpoints
-| HTTP Verb | Endpoint                       | Description                                    |
-|-----------|--------------------------------|------------------------------------------------|
-| GET       | `/random`                      | Fetches a random cafe                          |
-| GET       | `/all`                         | Fetches all cafes                              |
-| GET       | `/search?loc=location`         | Fetches cafes matching the specified location  |
-| POST      | `/add`                         | Creates a new cafe                             |
-| PATCH     | `/update-price/<int:cafe_id>`  | Updates the price of the specified cafe        |
-| DELETE    | `/report-closed/<int:cafe_id>?api-key=YourAPIKey` | Deletes the specified cafe  |
+| HTTP Verb | Endpoint                                          | Description                                    |
+|-----------|---------------------------------------------------|------------------------------------------------|
+| GET       | `/random`                                         | Fetches a random cafe                          |
+| GET       | `/all`                                            | Fetches all cafes                              |
+| GET       | `/search?loc=location`                            | Fetches cafes matching the specified location  |
+| POST      | `/add`                                            | Creates a new cafe                             |
+| PATCH     | `/update-price/<int:cafe_id>`                     | Updates the price of the specified cafe        |
+| DELETE    | `/report-closed/<int:cafe_id>?api-key=YourAPIKey` | Deletes the specified cafe                     |
 ```
 
 ## JSON Serialization
